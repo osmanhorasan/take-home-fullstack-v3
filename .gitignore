@@ -5,3 +5,6 @@ node_modules
 .DS_Store
 vitest.config.ts.timestamp-*
 tsconfig.tsbuildinfo
+.vercel
+.vercel-session-secret.tmp
+.env*

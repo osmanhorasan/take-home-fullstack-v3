@@ -1,5 +1,10 @@
 # NOTES
 
+## Deliverables
+
+- Repo: https://github.com/osmanhorasan/take-home-fullstack-v3
+- Live: https://take-home-fullstack-v3.vercel.app
+
 ## Setup
 
 Needs Node 20+, pnpm, and Docker.
